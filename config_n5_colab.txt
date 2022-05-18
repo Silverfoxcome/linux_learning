@@ -34,7 +34,7 @@ Optional:
 -----------------------
 Insert size auto      = yes
 Use Quality Scores    = no
-Output path           = /content/results/n4/
+Output path           = /content/results/n5/
 
 
 
